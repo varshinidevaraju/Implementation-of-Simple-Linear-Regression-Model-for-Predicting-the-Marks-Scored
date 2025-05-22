@@ -56,7 +56,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.metrics import mean_absolute_error, mean_squared_error
 df=pd.read_csv('student_scores.csv')
-print("Name: Sukirthana.M\nReg.no: 212224220112")
 #displaying the content in datfile
 df.head()
 
